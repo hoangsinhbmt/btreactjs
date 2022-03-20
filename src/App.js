@@ -31,7 +31,7 @@ function App() {
       {/* <Props dsdt={dataProps} /> */}
 
       {/* <LiftingStateUp /> */}
-      {/* <BaiTapGioHang /> */}
+      <BaiTapGioHang />
       <DemoMiniRedux/>
     </div>
   );
